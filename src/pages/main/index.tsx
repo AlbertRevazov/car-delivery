@@ -1,5 +1,5 @@
-import React from 'react'
+import { Welcome } from '../../components/welcome'
 
 export const Main = () => {
-	return <div>Main</div>
+	return <Welcome />
 }

@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Bold';
+	src: url('./TildaSans-Bold.ttf') format('woff2');
+}
+
+@font-face {
+	font-family: 'Light';
+	src: url('./TildaSans-Light.ttf') format('woff2');
+}
+
+@font-face {
+	font-family: 'Regular';
+	src: url('./TildaSans-Regular.ttf') format('woff2');
+}
+
+@font-face {
+	font-family: 'Jura';
+	src: url('./Jura-VariableFont_wght.ttf') format('woff2');
+}
+
+@font-face {
+	font-family: 'PoiretOne';
+	src: url('./PoiretOne-Regular.ttf') format('woff2');
+}

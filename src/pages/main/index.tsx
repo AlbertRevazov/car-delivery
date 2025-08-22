@@ -1,4 +1,5 @@
 import { Advantages } from '../../components/advantages'
+import { Services } from '../../components/services'
 import { Welcome } from '../../components/welcome'
 
 export const Main = () => {
@@ -6,6 +7,7 @@ export const Main = () => {
 		<>
 			<Welcome />
 			<Advantages />
+			<Services />
 		</>
 	)
 }

@@ -1,0 +1,30 @@
+.services_root {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 12px;
+}
+
+.services_container {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 40px;
+}
+
+.services_title {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: clamp(2rem, 2.25vw, 2.75rem);
+}
+
+.services_description {
+	color: grey;
+	font-family: Jura;
+	font-size: 18px;
+	padding: 12px 0;
+	text-wrap: balance;
+	font-weight: 600;
+}
